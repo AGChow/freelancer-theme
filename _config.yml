@@ -35,6 +35,7 @@ color:
   secondary: ff7d6e #FD6E8A
   secondary-dark: ff7d6e #A2122F
   tertiary: e8e7cb #e8e7cb
+  quaternary: fca6ac #fca6ac
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
