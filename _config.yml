@@ -34,6 +34,7 @@ color:
   primary-rgb: "33,118,204" #"128,179,255"
   secondary: ff7d6e #FD6E8A
   secondary-dark: ff7d6e #A2122F
+  tertiary: e8e7cb #e8e7cb
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
