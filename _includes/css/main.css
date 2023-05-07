@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    background-color: #{{ site.color.tertiary }};
+    color: #{{ site.color.tertiary }};
 }
 
 p {
@@ -186,23 +186,30 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
+    /*color: #fff;*/
+    color: #{{ site.color.tertiary }};
     background: #{{ site.color.primary }};
 }
 
 @media(max-width:767px) {
     section {
         padding: 75px 0;
+        color: #{{ site.color.tertiary }};
+
     }
 
     section.first {
         padding-top: 75px;
+        color: #{{ site.color.tertiary }};
+
     }
 }
 
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    color: #{{ site.color.tertiary }};
+
 }
 
 #portfolio .portfolio-item .portfolio-link {
