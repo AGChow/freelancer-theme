@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2022-07-17
+date: 2022-11-05
 img: ForsakenFlameCard.png
 alt: image-alt
 project-date: July 2022
