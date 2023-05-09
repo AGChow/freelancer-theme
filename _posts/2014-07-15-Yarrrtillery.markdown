@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2022-10-15
+date: 2022-11-04
 img: YarrtileryCard.png
 alt: image-alt
 project-date: October 2022
