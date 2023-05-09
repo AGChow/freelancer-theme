@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2014-11-03
 img: GobotCard.png
 alt: image-alt
 project-date: October 2022
