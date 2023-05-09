@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-/*date: 2023-05-25*/
+date: 2023-05-25
 img: SDLogoPNG2.png
 alt: image-alt
 project-date: April 2022
