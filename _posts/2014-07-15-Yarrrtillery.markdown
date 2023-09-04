@@ -7,6 +7,4 @@ alt: image-alt
 project-date: October 2022
 category: 3D modeling and Animation
 description: A multiplayer turn based pirate game. I worked on the models and animations
-img2: CapWireFrame.png
-description2: WireFrames
 ---
